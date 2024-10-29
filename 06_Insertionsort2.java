@@ -7,7 +7,6 @@ public class insertionsort2 {
 			System.out.print(i+" ");
 		}
 	} 
-
 	public static int[] InsertionSort(int[] arr) {
 		for(int i=1; i<=arr.length-1; i++) {
 			int item = arr[i];
