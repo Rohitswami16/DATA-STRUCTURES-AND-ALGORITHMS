@@ -2,7 +2,7 @@ public class alphabets {
 
     public static void main(String[] args) {
         int n = 11;  // Set the height and width of the alphabet patterns
-        
+
         // A pattern
         System.out.println("A:");
         for (int i = 0; i < n; i++) {
